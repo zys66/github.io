@@ -1,5 +1,3 @@
-0.说明
-[gn] ver.2020.02.11v2,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
 A.央视
 CCTV-1 综合 FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
 CCTV-2 财经 FHD,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
